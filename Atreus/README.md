@@ -1,6 +1,6 @@
 # Atreus Keymap
 
-Since I use an Atreus keyboard, I have a custom setup for the rest of my keymap that works in conjunction with the keymap.
+Since I use an Atreus keyboard, I have a custom setup for the rest of my keymap that works in conjunction with the layout.
 
 The JSON config file for the Keyboard.io graphical configurator [Chrysalis](https://github.com/keyboardio/Chrysalis) is included [here](APTAP.json).
 
