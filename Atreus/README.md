@@ -26,6 +26,6 @@ Next is the navigation and shortcut layer, and is also where `Escape`, `Caps Loc
 
 ---
 
-Last is the number and symbol layer. Function keys are setup here as well, opting to swap `` ` `` and `\` with `'` and `/`, but making sure the other base symbols are present in order to make typing common number and symbol sequences more easily. Again the bottom row is passthrough.
+Last is the number and symbol layer. Function keys are setup here as well, along with the remaining symbol keys. Again the bottom row is passthrough.
 
 ![Num](Layer4.png)
