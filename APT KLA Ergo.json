@@ -1,5 +1,5 @@
 {
-    "label": "aptap.en.ergodox",
+    "label": "apt.en.ergodox",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -17,7 +17,7 @@
     "keyboardType": "ergodox",
     "author": "Apsu",
     "authorUrl": "",
-    "moreInfoUrl": "https://github.com/Apsu/APTAP",
+    "moreInfoUrl": "https://github.com/Apsu/APT",
     "moreInfoText": "Github",
     "keys": [
         {
