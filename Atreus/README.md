@@ -2,13 +2,13 @@
 
 Since I use an Atreus keyboard, I have a custom setup for the rest of my keymap that works in conjunction with the layout.
 
-The JSON config file for the Keyboard.io graphical configurator [Chrysalis](https://github.com/keyboardio/Chrysalis) is included [here](APTAP.json).
+The JSON config file for the Keyboard.io graphical configurator [Chrysalis](https://github.com/keyboardio/Chrysalis) is included [here](APT.json).
 
 ## Base Layers
 
-The first layer is the APTAP layout, with some additional punctuation on the extra middle keys.
+The first layer is the APT layout, with some additional punctuation on the extra middle keys.
 
-![APTAP](Layer1.png)
+![APT](Layer1.png)
 
 Mods are symmetric in the bottom corners, and extra layers are mod taps on the thumb home keys.
 
@@ -20,7 +20,7 @@ The second layer has the same general map but a QWERTY layout, with accompanying
 
 ---
 
-Next is the navigation and shortcut layer, and is also where `Escape`, `Caps Lock`, `Menu`, `Print Screen`, `Scroll Lock`, `Pause`, and a key that switches the default layer between APTAP and QWERTY. The whole bottom row is passthrough.
+Next is the navigation and shortcut layer, and is also where `Escape`, `Caps Lock`, `Menu`, `Print Screen`, `Scroll Lock`, `Pause`, and a key that switches the default layer between APT and QWERTY. The whole bottom row is passthrough.
 
 ![Nav](Layer3.png)
 
