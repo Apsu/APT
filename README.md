@@ -1,4 +1,4 @@
-# APTAP Layout
+# APT Layout
 
 This is an alternate keyboard layout initially based on the work done in [MTGAP][1] and [CTGAP][2] [[notes](#notes)].
 
