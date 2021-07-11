@@ -4,6 +4,8 @@ Since I use an Atreus keyboard, I have a custom setup for the rest of my keymap 
 
 The JSON config file for the Keyboard.io graphical configurator [Chrysalis](https://github.com/keyboardio/Chrysalis) is included [here](APT.json).
 
+**Note**: Only the symmetric configuration is provided.
+
 ## Base Layers
 
 The first layer is the APT layout, with some additional punctuation on the extra middle keys.
