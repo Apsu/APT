@@ -32,9 +32,9 @@ the SFB calculation as this analyzer seems to punish this punctuation more than 
 This variation has a more traditional punctuation layout.
 
 ```txt
-w c d l q j y o u /
+w c d l v j y o u /
 r s t h k p n e i a
-v b g m x z f ' , .
+q b g m x z f ' , .
 ```
 ### ModDH
 
