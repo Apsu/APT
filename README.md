@@ -3,9 +3,9 @@
 This is an alternate keyboard layout initially based on the work done in [MTGAP][1] and [CTGAP][2] [[notes](#notes)].
 
 ```txt
-q c d l x z y o u /
-r s t h k p n e i a
-w b g m v j f ' , .
+q c d l x  z y o u /
+r s t h k  p n e i a
+w g b m v  j f ' , .
 ```
 
 ### ModDH
