@@ -12,7 +12,6 @@ My [Keyboard.io Atreus](https://keyboard.io/atreus) configs are in the [Atreus](
 
 
 ## Genkey
----
 
 [Semilin's Genkey analyzer](https://github.com/semilin/genkey) heatmap and stat breakdown, using top 500 trigrams for analysis.
 
@@ -38,7 +37,6 @@ Top SFBs:
 ```
 
 ## Notes
----
 
 The CTGAP repo was taken offline. Layout for posterity is as follows:
 ```txt
