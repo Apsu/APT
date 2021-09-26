@@ -27,13 +27,13 @@ In addition, the remaining common base-layer symbols `-=[]` live on the right-ha
 
 ## Nav/Shortcuts
 
-In addition to navigation and shortcuts, this is also where `Escape`, `Caps Lock`, `Menu`, `Print Screen`, `Scroll Lock`, `Pause`, and `Num Lock` live. The whole bottom row is passthrough.
+In addition to navigation and shortcuts, this is also where `Escape`, `Caps Lock`, `Menu`, `Print Screen`, `Scroll Lock`, `Pause`, and `Num Lock` live. All blank keys are passthrough.
 
 ![Nav](Layer2.png)
 
 ## Number/Symbol
 
-This layer is setup to make it easier to only have to hold one key and press one other
+This layer is setup to make it easier to only have to hold one key and press one other in order to produce any letter, number, or symbol. 
 
 ![Num](Layer3.png)
 
