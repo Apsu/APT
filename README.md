@@ -3,9 +3,9 @@
 This is an alternate keyboard layout initially based on the work done in [MTGAP][1] and [CTGAP][2] [[notes](#notes)].
 
 ```txt
-q c d l x  z y o u ;
-r s t h k  p n e i a
-w g b m v  j f ' , .
+q c d l v  j p o u ;
+r s t h k  y n e i a
+w g b m x  z f ' , .
 ```
 
 My [Keyboard.io Atreus](https://keyboard.io/atreus) configs are in the [Atreus](Atreus) directory.
@@ -30,7 +30,7 @@ Redirects: ~3.82%
 Index Usage: 13.2% 13.2%
 SFBs: 0.849%
 DSFBs: 6.818%
-LSBs: 2.44%
+LSBs: 0.85%
 Top SFBs:
         sc 0.138%       ny 0.119%       ui 0.107%       eo 0.078%
         gs 0.061%       nf 0.060%       e' 0.048%       oe 0.044%
