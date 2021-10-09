@@ -3,9 +3,9 @@
 This is an alternate keyboard layout initially based on the work done in [MTGAP][1] and [CTGAP][2] [[notes](#notes)].
 
 ```txt
-x c d k q  j p u o ;
+x c d k q  j p u o ,
 r s t l m  y n e a i
-w g b h v  z f ' , .
+w g b h v  z f ' ; .
 ```
 
 My [Keyboard.io Atreus](https://keyboard.io/atreus) configs are in the [Atreus](Atreus) directory.
