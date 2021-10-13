@@ -1,6 +1,6 @@
 # APT Layout
 
-This is an alternate keyboard layout initially based on the work done in [MTGAP][1] and [CTGAP][2] [[notes](#notes)].
+This is an alternate keyboard layout initially based on the work done in [MTGAP][1] and [CTGAP][2].
 
 ```txt
 x c d k q  j p u o ,
@@ -35,15 +35,6 @@ Index Usage: 13.1% 13.2%
 SFBs: 0.837%
 DSFBs: 6.157%
 LSBs: 0.54%
-```
-
-## Notes
-
-The CTGAP repo was taken offline. Layout for posterity is as follows:
-```txt
-w c l d k  j y o u /
-r s t h m  p n e i a
-z v g f b  q x ' , .
 ```
 
 [1]: https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/
