@@ -1,15 +1,12 @@
-# APT Layout
+# APTv3 Layout
 
 This is an alternate keyboard layout initially based on the work done in [MTGAP][1] and [CTGAP][2].
 
 ```txt
-x c d k q  j p u o ,
-r s t l m  y n e a i
-w g b h v  z f ' ; .
+w c d f b  q l u o y
+r s t h k  j n e a i ;
+x g m p v  z , . ' /
 ```
-
-My [Keyboard.io Atreus](https://keyboard.io/atreus) configs are in the [Atreus](Atreus) directory.
-
 
 ## Genkey
 
@@ -18,24 +15,33 @@ My [Keyboard.io Atreus](https://keyboard.io/atreus) configs are in the [Atreus](
 ![Genkey](Genkey.png)
 
 ```txt
-Rolls (l): 20.08%
-        Inward: ~17.15%
-        Outward: ~2.93%
-Rolls (r): 29.26%
-        Inward: ~20.96%
-        Outward: ~8.29%
-Alternates: ~37.75%
-Onehands: ~2.01%
-Redirects: ~4.70%
-Finger Speed (weighted): [1.26 1.82 1.05 2.07 1.73 1.43 1.19 1.18]
-Finger Speed (unweighted): [1.89 6.53 5.06 11.41 9.54 6.88 4.28 1.76]
-Highest Speed (weighted): 2.07 (LI)
-Highest Speed (unweighted): 11.41 (LI)
-Index Usage: 13.1% 13.2%
-SFBs: 0.837%
-DSFBs: 6.157%
-LSBs: 0.54%
+Rolls (l): 20.61%
+        Inward: ~17.31%
+        Outward: ~3.31%
+Rolls (r): 29.81%
+        Inward: ~21.68%
+        Outward: ~8.12%
+Inward Rolls: ~38.99%
+Outward Rolls: ~11.43%
+Total Rolls: ~50.42%
+Alternates: ~34.07%
+Onehands: ~3.53%
+Redirects: ~5.69%
+Finger Speed (weighted): [1.15 1.59 1.52 1.20 1.58 1.62 1.57 0.90 0.00 0.00]
+Finger Speed (unweighted): [1.73 5.74 7.30 6.58 8.70 7.76 5.65 1.36 0.00 0.00]
+Highest Speed (weighted): 1.62 (RM)
+Highest Speed (unweighted): 8.70 (RI)
+Index Usage: 12.2% 12.3%
+SFBs: 0.949%
+DSFBs: 6.043%
+LSBs: 0.40%
 ```
+
+## a200
+
+[ClemenPine's 200 analyzer](https://github.com/ClemenPine/200-analyzer) heatmap and stat breakdown, using MonkeyType quotes corpus.
+
+![a200](a200.png)
 
 [1]: https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/
 [2]: https://github.com/CTGAP/ctgap-keyboard-layout#ctgap-20-deprecated
