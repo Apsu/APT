@@ -3,9 +3,9 @@
 This is an alternate keyboard layout initially based on the work done in [MTGAP][1] and [CTGAP][2].
 
 ```txt
-w c d f b  q l u o y
+w g d f b  q l u o y
 r s t h k  j n e a i ;
-x g m p v  z , . ' /
+x c m p v  z , . ' /
 ```
 
 ## Angle Mod
@@ -17,12 +17,12 @@ This mod rotates the first 5 letters in the bottom row left by 1 spot, and the l
 This is what that looks like on APTv3:
 
 ```txt
-w c d f b q l u o y
+w g d f b q l u o y
  r s t h k j n e a i ;
-  g m p v x z , . ' /
+  c m p v x z , . ' /
 ```
 
-In this case, `g` is pressed with Ring, `m` with Middle, and `pvx` are all with Index.
+In this case, `c` is pressed with Ring, `m` with Middle, and `pvx` are all with Index.
 
 ## Genkey
 
